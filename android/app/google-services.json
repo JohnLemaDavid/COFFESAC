@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144401811894",
+    "project_id": "coffesac-60052",
+    "storage_bucket": "coffesac-60052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144401811894:android:ee6517f3432569c9225917",
+        "android_client_info": {
+          "package_name": "com.sac.coffe.efood_table"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ShZ43B7ecFjXjIx-CZPwBgTAvTEm218"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
